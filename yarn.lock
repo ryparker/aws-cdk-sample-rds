@@ -393,10 +393,10 @@ concat-map@0.0.1:
   resolved "https://registry.yarnpkg.com/concat-map/-/concat-map-0.0.1.tgz#d8a96bd77fd68df7793a73036a3ba0d5405d477b"
   integrity sha1-2Klr13/Wjfd5OnMDajug1UBdR3s=
 
-constructs@10.0.0:
-  version "10.0.0"
-  resolved "https://registry.yarnpkg.com/constructs/-/constructs-10.0.0.tgz#a6d498540111f6d75663711d0fa65f32fc8f1786"
-  integrity sha512-MIwjmrXZpM9RtwyrSD4HotDIQl8HTdIefQhU+MU1asvtSyVN3kK8kjeUOWMFb+fdyT4RX3QvvcaaPBluLEX1SA==
+constructs@10.0.64:
+  version "10.0.64"
+  resolved "https://registry.yarnpkg.com/constructs/-/constructs-10.0.64.tgz#9e5abddfa892e99413abc7a8d0b300ef775ce4b9"
+  integrity sha512-6wzjZT8T0GST7OMzxm8UCXJ8prGmsaO5w8dKun/hFaKDwlTozZmo5QMoS7aLwN4HDeMgL/Aq0cULIFs1gM5iXQ==
 
 core-util-is@~1.0.0:
   version "1.0.3"
